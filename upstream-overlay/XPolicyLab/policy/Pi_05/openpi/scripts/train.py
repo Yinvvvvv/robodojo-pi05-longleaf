@@ -1,5 +1,5 @@
 # Export notice added 2026-10-26. Runtime source body is preserved below.
-# Local runtime adaptations are documented in SOURCE_MANIFEST.json and THIRD_PARTY_NOTICES.md.
+# Origin and local runtime adaptations are described in the repository README.md.
 import dataclasses
 import functools
 import logging
