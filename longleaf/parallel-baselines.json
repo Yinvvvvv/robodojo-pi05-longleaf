@@ -1,0 +1,15 @@
+{
+  "owners": {
+    "ST-Organize": "6156205",
+    "MT-Uniform": "6182735",
+    "MT-Organize50": "6182737"
+  },
+  "manifest_sha256": "8f11feb97a8e6ecb57724d1b87bb90af84907cf96fd2e1cc7750930ed5304932",
+  "approved_by": "user",
+  "authorization": "Total3 dual-A100 allocations,6 GPUs,ST and both MT baselines in parallel",
+  "scope": "three_baselines_seed0_full",
+  "seed": 0,
+  "optimizer_updates_per_setting": 60000,
+  "effective_batch_size": 256,
+  "created_at_utc": "2026-10-22T11:54:24.142156+00:00"
+}
